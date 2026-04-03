@@ -24,4 +24,4 @@ The model was trained on the **UCI SMS Spam Dataset** and achieved:
 ## 🛠️ Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/spam-detector.git](https://github.com/yourusername/spam-detector.git)
+   git clone https://github.com/mouadelamri/spam_detector.git

@@ -5,7 +5,7 @@ A professional Machine Learning application to classify SMS messages as **Spam**
 ## 🚀 Live Demo
 | Spam Detection (🚨) | Ham Detection (✅) |
 | :---: | :---: |
-| ![Spam Example](screenshots/spam_result.png) | ![Ham Example](screenshots/ham_result.png) |
+| ![Spam Example](screenshot/spam_result.png) | ![Ham Example](screenshot/ham_result.png) |
 
 ## 🧠 How it Works
 This project follows a complete Data Science lifecycle:
